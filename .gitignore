@@ -1,3 +1,5 @@
+./answer
+
 # remove some sytem forlders and files
 .vscode/
 .documents/
